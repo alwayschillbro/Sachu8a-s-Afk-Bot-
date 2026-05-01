@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "PeaceIsGood11Edition.aternos.me",
-    "port": :49551,
+    "port": : 49551,
     "version": "1.21.11",
     "try-creative": false
   },
